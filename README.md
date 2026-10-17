@@ -52,5 +52,3 @@ Visualisasi menggunakan data yang telah disiapkan untuk analisis. Informasi iden
 5. Amati grafik dan kesimpulan yang dihasilkan.
 
 ---
-
-Proyek ini dibuat sebagai bagian dari tugas Studi Kasus Data Visualization 2026.
